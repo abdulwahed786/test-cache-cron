@@ -67,7 +67,7 @@ const testTrxHelper = async () => {
   console.log("hi calling testTrxHelper ...")
    await testTrxHelper();
   console.log("done..")
-},10000)
+},30000)
 
 })();
 
